@@ -1,0 +1,354 @@
+{
+    "pk": 598,
+    "name": "Dipped Pot",
+    "pronunciation": "",
+    "nick_name": "",
+    "is_in_stock": true,
+    "detail": {
+        "pk": 132,
+        "region": "gb-london",
+        "language_code": "en",
+        "top_tips": "",
+        "top_tips_title": "Top tip",
+        "about": {
+            "id": 137,
+            "created": "2020-07-16T18:15:12.454118Z",
+            "modified": "2020-07-16T18:15:12.714039Z",
+            "language_code": "en",
+            "title": "About our dipped pots",
+            "body": "<p>The design looks simple but it takes a lot of work to create these gorgeous pots. First, clay pots are moulded and air-dried - in the sun, when weather allows. They’re then fired with a sand glaze, to give a textured finish. They’re fired again, this time with a glossy glaze. A strip of the original sand glaze is left exposed, creating the contrast that makes these so beautiful.&amp;nbsp;</p><p>In cream, they add gentle colour to your room. Any plant would be very lucky to live in one of these.&amp;nbsp;&amp;nbsp;</p><p>Plants sold separately.</p><p><strong>How to pot your plant</strong></p><p>Potting your plant is quick and dirt-free. Just pop your plant, in its nursery pot, directly into the decorative pot, as shown in the picture.</p>",
+            "image": "image/upload/v1594923313/ynatgzgarhzigf3m6zq3.jpg"
+        },
+        "highlights": [],
+        "likes": null,
+        "description": "<p>Warm colours and contrasting textures make these hand-finished pots real eye-catchers. They're exclusive to Patch.</p>",
+        "description_title": "Why we love our dipped pots",
+        "created": "2020-07-16T18:10:12.373233Z",
+        "modified": "2020-10-14T18:47:52.642478Z"
+    },
+    "summary": "<p>xxx</p>",
+    "description": "<p>xxx</p>",
+    "attributes": {
+        "new-in": {
+            "name": "New in",
+            "order": 0,
+            "icon": null
+        }
+    },
+    "pot_selector": false,
+    "is_bundle": false,
+    "variants": [
+        {
+            "pk": 1281,
+            "sku": "POT-1-044-001",
+            "label": "13cm Stone",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 14.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£14.00",
+                "plain": "£14.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "13",
+                    "order": 13,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Stone",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                },
+                "indoor-pots": {
+                    "name": "S (10-15cm)",
+                    "order": 1,
+                    "icon": "#icon-filter-small"
+                },
+                "pot-colour": {
+                    "name": "Cream",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 13cm Stone",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594923713/cc159h69hta4hj6zssjw.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594922039/xcg6exbb7qgpsebou7vo.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594922039/idx8ux6vfhmhtqlpi0mm.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315801/w0axgpsqdgq1tpxxy8r1.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_400,q_auto:good,w_400/v1600097457/bwn2ly3ipgyqchvb86fq.png",
+            "clear_cut_nursery_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1600098340/wotylhppcbapespgr5wf.png"
+        },
+        {
+            "pk": 1282,
+            "sku": "POT-1-044-002",
+            "label": "13cm Pink",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 14.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£14.00",
+                "plain": "£14.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "13",
+                    "order": 13,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Pink",
+                    "order": 5,
+                    "icon": "#icon-filter-colour-pink"
+                },
+                "indoor-pots": {
+                    "name": "S (10-15cm)",
+                    "order": 1,
+                    "icon": "#icon-filter-small"
+                },
+                "pot-colour": {
+                    "name": "Pink",
+                    "order": 7,
+                    "icon": "#icon-filter-colour-pink"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 13cm Pink",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600084489/njiduuhe7gbf2blx8wy3.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600084398/cyypisvmlwwcynu7qel4.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600084398/dmxkrnr0wdaeovnecq0q.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315883/qjnxiqhakq40i9qqooai.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_400,q_auto:good,w_400/v1600097457/hzbquvvglxqjnx13uz9h.png",
+            "clear_cut_nursery_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1600097486/xi237zeuqpbekirdt1ij.png"
+        },
+        {
+            "pk": 1279,
+            "sku": "POT-1-044-003",
+            "label": "25cm Stone",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 55.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£55.00",
+                "plain": "£55.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "25",
+                    "order": 25,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Stone",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                },
+                "indoor-pots": {
+                    "name": "XL (25-30cm)",
+                    "order": 4,
+                    "icon": "#icon-filter-size-extra-large"
+                },
+                "pot-colour": {
+                    "name": "Cream",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 25cm Stone",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1598966287/akglsunmyztb2cbwziqg.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600089835/gwpnuzmngz3w1pn7malg.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600089835/md9w53t010ve4tqb5te5.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315802/fxcqiqnudtdau3olsrbb.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_400,q_auto:good,w_400/v1600097486/md5s7tzefhcdukmgtvpe.png",
+            "clear_cut_nursery_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1600098228/wn2adxug2u4bywhd2ume.png"
+        },
+        {
+            "pk": 1280,
+            "sku": "POT-1-044-004",
+            "label": "25cm Pink",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 55.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£55.00",
+                "plain": "£55.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "25",
+                    "order": 25,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Pink",
+                    "order": 5,
+                    "icon": "#icon-filter-colour-pink"
+                },
+                "indoor-pots": {
+                    "name": "XL (25-30cm)",
+                    "order": 4,
+                    "icon": "#icon-filter-size-extra-large"
+                },
+                "pot-colour": {
+                    "name": "Pink",
+                    "order": 7,
+                    "icon": "#icon-filter-colour-pink"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 25cm Pink",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600086532/g2bxopp95zc2mvcylnz2.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600089884/jg8je484edbrs4wk5pup.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600089868/ulj1t7cwupdvxbcm1amm.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315879/hgpvwlzswisnnuhyxaj2.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_400,q_auto:good,w_400/v1600097472/vsfcenrxrxbq8lintlvh.png",
+            "clear_cut_nursery_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1600097498/pdk3lkgluffubhphld8i.png"
+        },
+        {
+            "pk": 1283,
+            "sku": "POT-1-044-005",
+            "label": "30cm Stone",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 65.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£65.00",
+                "plain": "£65.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "30",
+                    "order": 30,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Stone",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                },
+                "indoor-pots": {
+                    "name": "XXL (30-40cm)",
+                    "order": 5,
+                    "icon": "#icon-filter-size-extra-extra-large"
+                },
+                "pot-colour": {
+                    "name": "Cream",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 30cm Stone",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1597853815/ucdapu8hdvdkusi4hvw2.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1597853812/j5ufkp7hibo55vtmsm7v.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1597853852/f6o3f2nmlcwaxcpcmaxe.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315773/qxhuya6h0m3ivsjrkelo.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_400,q_auto:good,w_400/v1600097498/or5tt30admeheloeis4g.png",
+            "clear_cut_nursery_shadow_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1600097527/pwz7kz11jfjr6fgan4fk.png"
+        },
+        {
+            "pk": 1299,
+            "sku": "POT-1-044-006",
+            "label": "22cm - Stone",
+            "is_in_stock": true,
+            "is_archived": false,
+            "is_default_variant": false,
+            "pot_selector_description": null,
+            "default_pot_id": null,
+            "price": 40.0,
+            "currency": "GBP",
+            "display": {
+                "html": "£40.00",
+                "plain": "£40.00"
+            },
+            "attributes": {
+                "internal-pot-width-cm": {
+                    "name": "22",
+                    "order": 22,
+                    "icon": null
+                },
+                "exact-pot-colour": {
+                    "name": "Stone",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                },
+                "indoor-pots": {
+                    "name": "L (20-25cm)",
+                    "order": 3,
+                    "icon": "#icon-filter-size-large"
+                },
+                "pot-colour": {
+                    "name": "Cream",
+                    "order": 2,
+                    "icon": "#icon-filter-colour-cream"
+                }
+            },
+            "container_requirement": null,
+            "nursery_pot": null,
+            "addon_associations": [],
+            "fits_pots": null,
+            "name": "Dipped Pot - 22cm - Stone",
+            "product_name": "Dipped Pot",
+            "recommended_pots": [],
+            "default_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594999547/wytfs3534ty6ibeszopc.jpg",
+            "isolated_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594999417/hicavldage20suedcjvw.jpg",
+            "marketing_image": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594999417/mdhj4bekpaxlnjuj7bna.jpg",
+            "cropped_studio_image": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1604315771/aumdol4fiineh48xgguf.jpg",
+            "clear_cut_plant_image": null,
+            "clear_cut_nursery_no_shadow_image": null,
+            "clear_cut_nursery_shadow_image": null
+        }
+    ]
+}
